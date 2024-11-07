@@ -18,7 +18,7 @@ router.post("/", (req, res) => {
   };
 
   const tasks = readData();
-  tasks.push(newTask);
+  tasks.unshift(newTask);
   writeData(tasks);
 
   res.status(201).json(newTask);

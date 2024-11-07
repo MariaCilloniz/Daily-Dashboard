@@ -1,15 +1,5 @@
 [
   {
-    "id": "f9e8c2bb-4a5c-4a96-8cdd-b1a8e8e7fbd0",
-    "title": "Grocery shopping",
-    "description": "Buy ingredients for the week, including vegetables, fruits, and pantry staples.",
-    "tags": [
-      "errands",
-      "shopping",
-      "food"
-    ]
-  },
-  {
     "id": "d4c7e7a3-57c5-4b72-8d5a-80bcb8f0aeed",
     "title": "Organize closet",
     "description": "Sort clothes by season, donate items no longer needed, and tidy up shelves.",
@@ -47,43 +37,6 @@
       "planning",
       "meal prep",
       "health"
-    ]
-  },
-  {
-    "id": "e65a04c4-e2ed-4bcf-85f1-20a9813a998f",
-    "description": "test",
-    "tags": [
-      "Health",
-      "Home"
-    ]
-  },
-  {
-    "id": "d8b97d62-3e23-4ec8-a652-e6bde4facd89",
-    "description": "test",
-    "tags": [
-      "Health",
-      "Fitness"
-    ]
-  },
-  {
-    "id": "f77daa90-b527-4d65-ab7f-f1ecdf1299ef",
-    "description": "test",
-    "tags": []
-  },
-  {
-    "id": "87cd8c68-24dd-481c-a29a-2d1d18ad5a3d",
-    "description": "Test",
-    "tags": [
-      "Health",
-      "Fitness"
-    ]
-  },
-  {
-    "id": "0c351bf1-48a6-4d32-a2ba-a25142a6bed9",
-    "description": "Test",
-    "tags": [
-      "Fitness",
-      "Work"
     ]
   }
 ]
