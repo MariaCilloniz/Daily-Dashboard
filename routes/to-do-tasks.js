@@ -9,11 +9,10 @@ router.get("/", (req, res) => {
 });
 
 router.post("/", (req, res) => {
-  const { title, description, tags } = req.body;
+  const { description, tags } = req.body;
 
   const newTask = {
     id: uuidv4(),
-    title,
     description,
     tags,
   };
