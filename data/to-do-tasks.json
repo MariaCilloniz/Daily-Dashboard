@@ -3,40 +3,24 @@
     "id": "d4c7e7a3-57c5-4b72-8d5a-80bcb8f0aeed",
     "title": "Organize closet",
     "description": "Sort clothes by season, donate items no longer needed, and tidy up shelves.",
-    "tags": [
-      "organization",
-      "home",
-      "declutter"
-    ]
+    "tags": ["health", "home", "fitness"]
   },
   {
     "id": "1f6a5ad5-fc72-4c19-83ef-2d598f0b3464",
     "title": "Call family",
     "description": "Catch up with parents and siblings for a nice, long chat.",
-    "tags": [
-      "family",
-      "social",
-      "catch up"
-    ]
+    "tags": ["personal", "home", "work"]
   },
   {
     "id": "a4b7ef25-3d72-4f37-8c6d-054b8ef1a5c7",
     "title": "Workout session",
     "description": "Complete a 30-minute workout, focusing on cardio and strength training.",
-    "tags": [
-      "health",
-      "fitness",
-      "exercise"
-    ]
+    "tags": ["health", "fitness", "school"]
   },
   {
     "id": "b3f4ae48-2b4f-46e4-bdf2-df35a2c6a9a9",
     "title": "Plan next week's meals",
     "description": "Create a meal plan for next week to save time and eat healthy.",
-    "tags": [
-      "planning",
-      "meal prep",
-      "health"
-    ]
+    "tags": ["school", "work", "fitness"]
   }
 ]
